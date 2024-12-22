@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="A+" tvg-name="A+" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarA5mKGGbtpj7fkQhe13urnyqOvIfJWCAXRWXmiAzWx7-w.png" group-title="Locales",A+
+#EXTINF:-1 tvg-id="A+" tvg-name="A+" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarA5mKGGbtpj7fkQhe13urnyqOvIfJWCAXRWXmiAzWx7-w.png" 
 http://bply.club:8080/5744g/fzrpj/98.ts
 #EXTINF:-1 tvg-id="ADN 40" tvg-name="ADN 40 HD" tvg-logo="http://bply.club:8080/images/FzegiAB0evKvUZ2McQGvWNzrs30MRELKQiR5aG4XQTQVxstONDOGUXi6FJmS50Kzmw-_ewwEBobWcMaLOmLVAg.png" group-title="Locales",ADN 40 HD
 http://bply.club:8080/5744g/fzrpj/9059.ts
@@ -10,25 +10,25 @@ http://bply.club:8080/5744g/fzrpj/4823.ts
 http://bply.club:8080/5744g/fzrpj/95.ts
 #EXTINF:-1 tvg-id="AZTECA UNO" tvg-name="Azteca Uno HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarDU1s5zaFW-VrEV0SFtOEHOHbHtYcMydXoqMalbu1GuAQ.png" 
 http://bply.club:8080/5744g/fzrpj/56064.ts
-#EXTINF:-1 tvg-id="BITIME" tvg-name="BitMe HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarDCd37tLbk73lkBtqW1vsIo.png" group-title="Infantil",BitMe HD
+#EXTINF:-1 tvg-id="BITIME" tvg-name="BitMe HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarDCd37tLbk73lkBtqW1vsIo.png" 
 http://bply.club:8080/5744g/fzrpj/3119.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 44" tvg-logo="http://bply.club:8080/images/HcmAxsPcKmIh-qyQeuFxog012EAdsBLA3myt4iw9IPrHKn2LhUAvDTegJG4v6047WR9_5YujZbeN6QyXw7cC1T3MRvGhvxitgf8kNAvEYe-U-Jp8NgB8hGS9ZQSPPLaJ.png" group-title="Locales",Canal 44
+#EXTINF:-1 tvg-id="" tvg-name="Canal 44" tvg-logo="http://bply.club:8080/images/HcmAxsPcKmIh-qyQeuFxog012EAdsBLA3myt4iw9IPrHKn2LhUAvDTegJG4v6047WR9_5YujZbeN6QyXw7cC1T3MRvGhvxitgf8kNAvEYe-U-Jp8NgB8hGS9ZQSPPLaJ.png" 
 http://bply.club:8080/5744g/fzrpj/54352.ts
-#EXTINF:-1 tvg-id="CANAL 5" tvg-name="Canal 5" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarBbz1MoxhBNReWbiHUh9wZHAmf9G-iDY6gfsGG18iMFhg.png" group-title="Locales",Canal 5
+#EXTINF:-1 tvg-id="CANAL 5" tvg-name="Canal 5" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarBbz1MoxhBNReWbiHUh9wZHAmf9G-iDY6gfsGG18iMFhg.png" 
 http://bply.club:8080/5744g/fzrpj/78.ts
-#EXTINF:-1 tvg-id="CANAL 5" tvg-name="Canal 5 HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarBbz1MoxhBNReWbiHUh9wZHAmf9G-iDY6gfsGG18iMFhg.png" group-title="Entretenimiento",Canal 5 HD
+#EXTINF:-1 tvg-id="CANAL 5" tvg-name="Canal 5 HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarBbz1MoxhBNReWbiHUh9wZHAmf9G-iDY6gfsGG18iMFhg.png" 
 http://bply.club:8080/5744g/fzrpj/91.ts
-#EXTINF:-1 tvg-id="CANAL 6(XHAW).mx" tvg-name="Canal 6 HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarC8nE3-xePCFi6TWRtjqj-Yus_OVlOnedCEc4d0Xn43mQ.png" group-title="Locales",Canal 6 HD
+#EXTINF:-1 tvg-id="CANAL 6(XHAW).mx" tvg-name="Canal 6 HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarC8nE3-xePCFi6TWRtjqj-Yus_OVlOnedCEc4d0Xn43mQ.png" 
 http://bply.club:8080/5744g/fzrpj/82.ts
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="Canal Once HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarDxstBhLsy5_hzSHZryTJ2QCd8Ei_rf5HwMJM2E-3B35w.png" group-title="Locales",Canal Once HD
+#EXTINF:-1 tvg-id="CANAL 11" tvg-name="Canal Once HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarDxstBhLsy5_hzSHZryTJ2QCd8Ei_rf5HwMJM2E-3B35w.png" 
 http://bply.club:8080/5744g/fzrpj/87.ts
-#EXTINF:-1 tvg-id="FORO TV" tvg-name="Foro TV" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarAkSynqRccNoedMQHY8VxsxzCJFlCdUwfip95PfC_n88g.png" group-title="Locales",Foro TV
+#EXTINF:-1 tvg-id="FORO TV" tvg-name="Foro TV" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarAkSynqRccNoedMQHY8VxsxzCJFlCdUwfip95PfC_n88g.png" 
 http://bply.club:8080/5744g/fzrpj/86.ts
-#EXTINF:-1 tvg-id="8536" tvg-name="Galavisión HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarB30pKq4gPVF8AvQGMHE6sySqWzGKYCGNiPg_5J0Y0qDQ.png" group-title="Locales",Galavisión HD
+#EXTINF:-1 tvg-id="8536" tvg-name="Galavisión HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarB30pKq4gPVF8AvQGMHE6sySqWzGKYCGNiPg_5J0Y0qDQ.png" 
 http://bply.club:8080/5744g/fzrpj/3040.ts
-#EXTINF:-1 tvg-id="IMAGEN TELEVISION" tvg-name="Imagen TV HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarCT8SeU2PlRaKNvAO8r8N4q4zaQm-wsqWLlM2KkUweIzA.png" group-title="Entretenimiento",Imagen TV HD
+#EXTINF:-1 tvg-id="IMAGEN TELEVISION" tvg-name="Imagen TV HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarCT8SeU2PlRaKNvAO8r8N4q4zaQm-wsqWLlM2KkUweIzA.png" 
 http://bply.club:8080/5744g/fzrpj/85.ts
-#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS +2" tvg-name="Las Estrellas -2 HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarDV55N7TEZjTm_Xepy5CbBjj_ZqmNx9FVGPiNKiwXPDkg.png" group-title="Locales",Las Estrellas -2 HD
+#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS +2" tvg-name="Las Estrellas -2 HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarDV55N7TEZjTm_Xepy5CbBjj_ZqmNx9FVGPiNKiwXPDkg.png" 
 http://bply.club:8080/5744g/fzrpj/5644.ts
 #EXTINF:-1 tvg-id="XEW.Las.Estrellas.DF.(LASESTRE).mx" tvg-name="Las Estrellas" tvg-logo="http://bply.club:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUekN9HN4C6j_obxMnhxPpDwXMx3Z4AngDi_vaiIsCtg3LlCvh60-ulGPxn3wY11TxUbfw0lRaq4Hh3kGeg0O9-.png" group-title="Entretenimiento",Las Estrellas
 http://bply.club:8080/5744g/fzrpj/1663.ts
@@ -362,8 +362,6 @@ http://bply.club:8080/5744g/fzrpj/12005.ts
 http://bply.club:8080/5744g/fzrpj/174.ts
 #EXTINF:-1 tvg-id="8486" tvg-name="Fox Deportes" tvg-logo="http://bply.club:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUtJVaZ7CzxjZrF_OpH44HZBh96x-L8tiH6jwO3E16k7WSBkzu0c2UC751oNHl9RMs.png" group-title="Deportes",Fox Deportes
 http://bply.club:8080/5744g/fzrpj/45010.ts
-#EXTINF:-1 tvg-id="8486" tvg-name="Fox Deportes HD" tvg-logo="http://bply.club:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUtJVaZ7CzxjZrF_OpH44HZBh96x-L8tiH6jwO3E16k7WSBkzu0c2UC751oNHl9RMs.png" group-title="Deportes",Fox Deportes HD
-http://bply.club:8080/5744g/fzrpj/794.ts
 #EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-name="Fox Sports Premium MX" tvg-logo="http://bply.club:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVyNdGSIrPSU-Q9fVLW48RilW7YjqUvsx9ikJa_qIYA4aOVQrvG62eJSAtMKViAEgN8RsWD1f9muqek4vn8ILC6.png" group-title="Deportes",Fox Sports Premium MX
 http://bply.club:8080/5744g/fzrpj/4439.ts
 #EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-name="Fox Sports Premium MX HD" tvg-logo="http://bply.club:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVyNdGSIrPSU-Q9fVLW48RilW7YjqUvsx9ikJa_qIYA4aOVQrvG62eJSAtMKViAEgN8RsWD1f9muqek4vn8ILC6.png" group-title="Deportes",Fox Sports Premium MX HD
@@ -410,10 +408,12 @@ http://bply.club:8080/5744g/fzrpj/155.ts
 http://bply.club:8080/5744g/fzrpj/56471.ts
 #EXTINF:-1 tvg-id="" tvg-name="Stadium HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarDszoaVREOfpRNJ6mtGmyIO6dbEk5PYf1eASJt4X3u7Jw.png" group-title="Deportes",Stadium HD
 http://bply.club:8080/5744g/fzrpj/3474.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: SyFy HD" tvg-logo="" group-title="España",ES: SyFy HD
+#EXTINF:-1 tvg-id="" tvg-name="SyFy HD" tvg-logo="" group-title="España",ES: SyFy HD
 http://bply.club:8080/5744g/fzrpj/7619.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: AMC HD" tvg-logo="" group-title="España",ES: AMC HD
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="España",ES: AMC HD
 http://bply.club:8080/5744g/fzrpj/7598.ts
+
+dom
 
 
 
