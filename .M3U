@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="A+" tvg-name="A+" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarA5mKGGbtpj7fkQhe13urnyqOvIfJWCAXRWXmiAzWx7-w.png" 
 http://bply.club:8080/5744g/fzrpj/98.ts
-#EXTINF:-1 tvg-id="ADN 40" tvg-name="ADN 40 HD" tvg-logo="http://bply.club:8080/images/FzegiAB0evKvUZ2McQGvWNzrs30MRELKQiR5aG4XQTQVxstONDOGUXi6FJmS50Kzmw-_ewwEBobWcMaLOmLVAg.png" group-title="Locales",ADN 40 HD
+#EXTINF:-1 tvg-id="ADN 40" tvg-name="ADN 40 HD" tvg-logo="http://bply.club:8080/images/FzegiAB0evKvUZ2McQGvWNzrs30MRELKQiR5aG4XQTQVxstONDOGUXi6FJmS50Kzmw-_ewwEBobWcMaLOmLVAg.png" 
 http://bply.club:8080/5744g/fzrpj/9059.ts
 #EXTINF:-1 tvg-id="AZTECA 7" tvg-name="Azteca 7" tvg-logo="http://bply.club:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjg63bm4zuAEdTnvo3snQADQ6R-2qt7_aYsI5yCYOPBOVn-wmwmECXy0Z4KS186tEOuvg4tCaYirgVb-GcURul8QZMFh6psTqhscTmdfniX2U.png" 
 http://bply.club:8080/5744g/fzrpj/4823.ts
@@ -50,7 +50,7 @@ http://bply.club:8080/5744g/fzrpj/6512.ts
 http://bply.club:8080/5744g/fzrpj/6593.ts
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="Cartoon Network HD" tvg-logo="http://bply.club:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWZ_mFdTEoOVZuTRfSFzEO7PNs3pnT-yNzIuS7_sN9oJ-OLaME2Lbo_vlEMRXP8lIE.png" group-title="Infantil",Cartoon Network HD
 http://bply.club:8080/5744g/fzrpj/133.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="http://bply.club:8080/images/75529366fa54125519b8a09fb99b01d4.png" group-title="Infantil",Discovery Kids HD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Discovery_Kids_%282009%29.png" 
 http://bply.club:8080/5744g/fzrpj/132.ts
 #EXTINF:-1 tvg-id="DISNEY" tvg-name="Disney Channel HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarCMPliPsGZDdQF_g-hlYGFTfxX45kgg8l2zYGLfDsMp0w.png" group-title="Infantil",Disney Channel HD
 http://bply.club:8080/5744g/fzrpj/131.ts
@@ -284,16 +284,14 @@ http://bply.club:8080/5744g/fzrpj/213.ts
 http://bply.club:8080/5744g/fzrpj/2.ts
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="Universal Channel HD" tvg-logo="http://bply.club:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjk-yu_OJieNpA9ocGpe4fAe767HlD5cZml82FpjJQvLr5uxQM7LUUsrejlynwJeolfqXoEMJ52XXyo5Z8i_5B0PO4y8tBuiXotuN7RH8U4Gc.png" group-title="Cinema",Universal Channel HD
 http://bply.club:8080/5744g/fzrpj/218.ts
-#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema HD" tvg-logo="http://bply.club:8080/images/8a688bfdbb6e95aa08a8e651b05b99e0.png" group-title="Cinema",Universal Cinema HD
+#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" 
 http://bply.club:8080/5744g/fzrpj/15001.ts
-#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy HD" tvg-logo="http://bply.club:8080/images/4de530e2bc195d42cf5210fb16282055.png" group-title="Cinema",Universal Comedy HD
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy HD" tvg-logo="https://i.ytimg.com/vi/wRjdWi0RxWo/mqdefault.jpg" 
 http://bply.club:8080/5744g/fzrpj/14997.ts
-#EXTINF:-1 tvg-id="" tvg-name="Universal Crime HD" tvg-logo="http://bply.club:8080/images/d363fd7d8228e64e3530e041e39b0ad2.png" group-title="Cinema",Universal Crime HD
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png"
 http://bply.club:8080/5744g/fzrpj/7220.ts
-#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere East" tvg-logo="http://bply.club:8080/images/7bc1f1c87023036327a17aca921e48cb.png" group-title="Cinema",Universal Premiere East
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premier " tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="Cinema",Universal Premier West
 http://bply.club:8080/5744g/fzrpj/14999.ts
-#EXTINF:-1 tvg-id="" tvg-name="Universal Premier West" tvg-logo="http://bply.club:8080/images/7bc1f1c87023036327a17aca921e48cb.png" group-title="Cinema",Universal Premier West
-http://bply.club:8080/5744g/fzrpj/7196.ts
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-name="USA Latino HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarC5RIjQALBGXw5XPRh0nZt6.png" group-title="Cinema",USA Latino HD
 http://bply.club:8080/5744g/fzrpj/18091.ts
 #EXTINF:-1 tvg-id="" tvg-name="Altitude Sports HD" tvg-logo="http://bply.club:8080/images/yV1U8hI3OejP1S3a7W1mn8JMzEOLibmXuMx6ZMzCarCboL46m7LBb3-Dc9DmyRDArgP9ElsOd66tHqlxrnu2Cg.png" group-title="Deportes",Altitude Sports HD
@@ -413,7 +411,7 @@ http://bply.club:8080/5744g/fzrpj/7619.ts
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="España",ES: AMC HD
 http://bply.club:8080/5744g/fzrpj/7598.ts
 
-dom
+dom1
 
 
 
